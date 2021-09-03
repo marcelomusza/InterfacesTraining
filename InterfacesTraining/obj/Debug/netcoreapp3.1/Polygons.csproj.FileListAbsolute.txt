@@ -1,0 +1,16 @@
+C:\Users\Marcelo\source\repos\InterfacesTraining\InterfacesTraining\bin\Debug\netcoreapp3.1\Polygons.exe
+C:\Users\Marcelo\source\repos\InterfacesTraining\InterfacesTraining\bin\Debug\netcoreapp3.1\Polygons.deps.json
+C:\Users\Marcelo\source\repos\InterfacesTraining\InterfacesTraining\bin\Debug\netcoreapp3.1\Polygons.runtimeconfig.json
+C:\Users\Marcelo\source\repos\InterfacesTraining\InterfacesTraining\bin\Debug\netcoreapp3.1\Polygons.runtimeconfig.dev.json
+C:\Users\Marcelo\source\repos\InterfacesTraining\InterfacesTraining\bin\Debug\netcoreapp3.1\Polygons.dll
+C:\Users\Marcelo\source\repos\InterfacesTraining\InterfacesTraining\bin\Debug\netcoreapp3.1\Polygons.pdb
+C:\Users\Marcelo\source\repos\InterfacesTraining\InterfacesTraining\bin\Debug\netcoreapp3.1\Polygons.Library.dll
+C:\Users\Marcelo\source\repos\InterfacesTraining\InterfacesTraining\bin\Debug\netcoreapp3.1\Polygons.Library.pdb
+C:\Users\Marcelo\source\repos\InterfacesTraining\InterfacesTraining\obj\Debug\netcoreapp3.1\Polygons.csprojAssemblyReference.cache
+C:\Users\Marcelo\source\repos\InterfacesTraining\InterfacesTraining\obj\Debug\netcoreapp3.1\Polygons.AssemblyInfoInputs.cache
+C:\Users\Marcelo\source\repos\InterfacesTraining\InterfacesTraining\obj\Debug\netcoreapp3.1\Polygons.AssemblyInfo.cs
+C:\Users\Marcelo\source\repos\InterfacesTraining\InterfacesTraining\obj\Debug\netcoreapp3.1\Polygons.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\source\repos\InterfacesTraining\InterfacesTraining\obj\Debug\netcoreapp3.1\Polygons.csproj.CopyComplete
+C:\Users\Marcelo\source\repos\InterfacesTraining\InterfacesTraining\obj\Debug\netcoreapp3.1\Polygons.dll
+C:\Users\Marcelo\source\repos\InterfacesTraining\InterfacesTraining\obj\Debug\netcoreapp3.1\Polygons.pdb
+C:\Users\Marcelo\source\repos\InterfacesTraining\InterfacesTraining\obj\Debug\netcoreapp3.1\Polygons.genruntimeconfig.cache

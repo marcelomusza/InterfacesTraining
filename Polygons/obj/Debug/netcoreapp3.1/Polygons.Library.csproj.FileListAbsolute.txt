@@ -1,0 +1,9 @@
+C:\Users\Marcelo\source\repos\InterfacesTraining\Polygons\bin\Debug\netcoreapp3.1\Polygons.Library.deps.json
+C:\Users\Marcelo\source\repos\InterfacesTraining\Polygons\bin\Debug\netcoreapp3.1\Polygons.Library.dll
+C:\Users\Marcelo\source\repos\InterfacesTraining\Polygons\bin\Debug\netcoreapp3.1\Polygons.Library.pdb
+C:\Users\Marcelo\source\repos\InterfacesTraining\Polygons\obj\Debug\netcoreapp3.1\Polygons.Library.csprojAssemblyReference.cache
+C:\Users\Marcelo\source\repos\InterfacesTraining\Polygons\obj\Debug\netcoreapp3.1\Polygons.Library.AssemblyInfoInputs.cache
+C:\Users\Marcelo\source\repos\InterfacesTraining\Polygons\obj\Debug\netcoreapp3.1\Polygons.Library.AssemblyInfo.cs
+C:\Users\Marcelo\source\repos\InterfacesTraining\Polygons\obj\Debug\netcoreapp3.1\Polygons.Library.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\source\repos\InterfacesTraining\Polygons\obj\Debug\netcoreapp3.1\Polygons.Library.dll
+C:\Users\Marcelo\source\repos\InterfacesTraining\Polygons\obj\Debug\netcoreapp3.1\Polygons.Library.pdb
